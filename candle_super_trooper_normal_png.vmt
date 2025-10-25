@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/candle_gaurd/candle_super_trooper_normal_png"
+		"$bumpmap" 		"models/candle_gaurd/candle_super_trooper_ao_png_14a33146_orm"
+
+		//"$detail" 		"effects/tiledfire/fireLayeredSlowTiled512.vtf"	
+		//"$detailscale" 		"5"
+		//"$detailblendfactor" 	"0.0"
+		//"$detailblendmode" 	"6"
+
+		"$phong" 		"1"
+		"$phongexponenttexture" 	"models/candle_gaurd/candle_trooper_wax_gradient_psd_ede308d1_orm"
+		"$phongboost" 		"0.09"	
+		"$lightwarptexture" 		"models/player/pyro/pyro_lightwarp"
+		"$phongfresnelranges"	"[.3 5 2]"
+
+		"$rimlight" 		"1"
+		"$rimlightexponent" 		"4"
+		"$rimlightboost" 		"2"
+		"$rimmask" 		"1"
+}
